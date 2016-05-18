@@ -3,7 +3,7 @@ A simple bot for generating Sudoku puzzles and posting them to Twitter.
 
 Follow it at https://twitter.com/sudokubot
 
-To simulate a fixed-width font, this uses fullwidth form characters.
+To simulate a fixed-width font, this uses [fullwidth form characters](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms).
 
 ＿＿３｜＿６＿｜２＿＿
 
